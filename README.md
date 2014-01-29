@@ -1,3 +1,5 @@
+# Class: So You Want To Work In The Web?
+
 This is a sample project students can use during Matthew's Git class.
 
 Here is an addition by me
@@ -16,3 +18,5 @@ This demo also includes an image with changes on a branch for examination of ima
 
 <strong>This is awesome! Thanks!!! Send us Github shirts/stickers pleaseeeeeeeeeee :) or internships lol jk :)</strong>
 <3 Github
+
+_We'll send stickers - I promise_
