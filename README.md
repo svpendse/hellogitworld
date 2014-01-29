@@ -14,5 +14,5 @@ We can, as an example effort, even modify this README and change it as if it wer
 
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
 
-This is awesome! Thanks!!! Send us Github shirts/stickers pleaseeeeeeeeeee :) or internships lol jk :)
+<strong>This is awesome! Thanks!!! Send us Github shirts/stickers pleaseeeeeeeeeee :) or internships lol jk :)</strong>
 <3 Github
